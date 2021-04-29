@@ -13,7 +13,7 @@ class SecretsController < ApplicationController
 
   # GET /secrets/new
   def new
-    @secret = Secret.new
+    @secret = current_user.secrets.build
   end
 
   # GET /secrets/1/edit
@@ -22,7 +22,8 @@ class SecretsController < ApplicationController
 
   # POST /secrets or /secrets.json
   def create
-    @secret = Secret.new(secret_params)
+    @secret = current_user.secrets.build(secret_params)
+
 
     respond_to do |format|
       if @secret.save
