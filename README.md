@@ -1,6 +1,6 @@
 # Members Only (Authentication with Rails)
 
-#### This is a simple Rails application where only logged-in users can write anonymous posts. The objective of this project utilizes Rails authentication.
+#### This is a simple Rails application where only logged-in users can write anonymous posts. The objective of this project utilizes Rails authentication, and several cool gems like Devise, better_errors, Hirb, etc.
 
 
 ## Built with
@@ -43,8 +43,10 @@ In order to run the linter on your local machine, please run the following comma
  
 [<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/Shaher-11)
 [<code><img height="26" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"></code>](https://twitter.com/ShaherShamroukh/)
-[<code><img height="26" src="https://www.linkedin.com/in/shaher-shamroukh)
- <a href="mailto:shahershamroukh@gmail.com?subject=Sup Niko?"><img height="26" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></code>](https://www.linkedin.com/in/shaher-shamroukh/)
+ <a href="mailto:shahershamroukh@gmail.com?subject=Hey Shaher!"><img height="26" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
+ 
+
 
 ## 🤝 Contributing
 
