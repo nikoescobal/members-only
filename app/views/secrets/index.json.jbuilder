@@ -1,1 +1,1 @@
-json.array! @secrets, partial: "secrets/secret", as: :secret
+json.array! @secrets, partial: 'secrets/secret', as: :secret

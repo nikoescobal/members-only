@@ -1,1 +1,1 @@
-json.partial! "secrets/secret", secret: @secret
+json.partial! 'secrets/secret', secret: @secret
