@@ -23,10 +23,9 @@ In order to run the linter on your local machine, please run the following comma
 
 > 1. run `https://github.com/nikoescobal/members-only.git`
 > 2. run `cd members-only`
-> 3. Run cd active_record.
-> 4. Run bundle install to get the necesary gems.
-> 5. Run yarn install.
-> 6. Run rails db:migrate.
+> 3. Run bundle install to get the necesary gems.
+> 4. Run yarn install.
+> 5. Run rails db:migrate.
 
 ## Author:
 
